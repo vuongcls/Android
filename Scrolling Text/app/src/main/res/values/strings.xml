@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Fantasy Albums</string>
+    <string name="article_subtitle"><b>Rock Music History. Yesterday and Today</b></string>
+    <string name="article_text">
+        <i>“Some see things</i> as they are, and ask why. I dream of things that never were, and ask why not.” — Robert F. Kennedy
+        \n
+        \n<i>A fantasy album</i> is an album of music that never was, but perhaps could have been, if the artists had been inclined to (or legally able to) produce and release it.
+        \n
+        \n<i>A fantasy album</i> is plausible as a concept — a collective effort of different artists to put forward a theme, or an alternative that could coexist with an artist’s real works. It is more than a set of playlists with liner notes. Careful attention is paid to the starting and ending song of each album “side” and the song sequence throughout, in order to re-create the album experience of that time and to put forth a concept.
+        \n
+        \nBeatles fantasy “Red Album” is an example. It addresses the idea of what the Beatles might have released if they hadn’t broken up — based on their solo releases.
+        \nRockument focuses on the cultural impact of rock music on the world, and the roots and foundations of rock music and its culture.
+        \nRockument.com offers a podcast of shows devoted to rock music history. Each show includes information about each song and its musicians, with links to artist, fan, and historical sites, and links to music for purchase on Amazon.com or iTunes. You can subscribe to the free podcast to receive each show automatically, or play the show right from the Web page. You can even download the show as an MP3 file, all for free. The music is licensed directly from its owners.
+    </string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Set màu n?n-->
+    <solid
+        android:color="@color/colorXanhla" >
+    </solid>
+    <!-- d?t thu?c tính màu và d? r?ng c?a du?ng vi?n -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/colorCam" >
+    </stroke>
+    <!-- các thu?c tính can ch?nh-->
+    <padding
+        android:left="2dp"
+        android:top="2dp"
+        android:right="2dp"
+        android:bottom="2dp" >
+    </padding>
+    <!-- và dây là bán kính du?ng tròn ? 4 góc -->
+    <corners
+        android:radius="10dp" >
+    </corners>
+</shape>
